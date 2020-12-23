@@ -7,7 +7,7 @@ namespace HappyBirthday
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Happy Birthday brother");
-			Console.WriteLine("thanks for this");
+			Console.WriteLine("thanks for this wishes");
 		}
 	}
 }
